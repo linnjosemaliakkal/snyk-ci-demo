@@ -4,7 +4,7 @@
   "description": "A tabbed pane component using React.js",
   "author": "geethnandini",
   "license": "MIT",
-  "repository": "github:geethnandini/reactjs-tabbedpane-component",
+  "repository": "github:linnjosemaliakkal/reactjs-tabbedpane-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
